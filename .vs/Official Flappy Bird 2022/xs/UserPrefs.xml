@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{958AC035-BE56-2FFF-2881-32603ED44ECE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="80" Column="47" />
+      <File FileName="Assets/Scripts/Paralax.cs" Line="6" Column="2" />
+      <File FileName="Assets/Scripts/Spawner.cs" Line="17" Column="62" />
+      <File FileName="Assets/Scripts/Pipes.cs" Line="13" Column="46" />
+      <File FileName="Assets/Scripts/Game_Manager.cs" Line="15" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Official Flappy Bird 2022" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Player.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e0b3ab69-df12-41dc-adaa-b1991760326f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
